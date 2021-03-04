@@ -19,6 +19,7 @@
   reference:
   Basis of I2C
   https://kurobekoblog.com/arduino_i2c
+  https://docs.espressif.com/projects/esp-idf/en/latest/esp32/api-reference/peripherals/i2c.html
   
   https://blog.goo.ne.jp/jh7ubc/e/cc27b64dd37726f33694d071c3b3a2d8
   https://qiita.com/MergeCells/items/20c3c1a0adfb222a19cd
