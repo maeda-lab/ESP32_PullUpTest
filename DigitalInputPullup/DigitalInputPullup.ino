@@ -1,5 +1,5 @@
 /*
-  Input Pull-up Test for ESP32
+  Input Pull-up Test for ESP32 (library : ESP32-Dev Module)
 
   This example demonstrates the use of gpio_set_pull_mode(GPIO_NUM_*, GPIO_*)).
   It reads a digital input on pin 22.
@@ -75,7 +75,7 @@ void loop() {
   else {
     Serial.println("done\n");
   }
-  delay(5000);
+  delay(500);
 }
 
 #if 0
