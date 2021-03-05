@@ -1,11 +1,11 @@
 // Masahiro Furukawa
 // Mar 6, 2021
 
-// I2C Slave in Seeeduino XIAO
+// I2C Slave in Seeeduino XIAO 
 
 // reference : 
 
-// I2C Slave
+// I2C ySlave
 // https://qiita.com/hikoalpha/items/7bf563ee286a59bfd2f4
 
 // Seeeduino XIAO のI2Cは SDA:A4, SCL:A5 です。
